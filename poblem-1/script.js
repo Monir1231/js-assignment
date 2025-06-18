@@ -83,5 +83,33 @@ x = x * y ;
 
 // 2. Use the correct Math method to return the largest number of 10 and 20.
 
-let myMax = Math.max(10,20)
-console.log(myMax)
+
+// function mymix(){
+//     return (Math.max(10,20))
+// }
+
+// let result = mymix()
+// console.log(result)
+
+// 3. Use the correct Math method to get the square root of 9.
+
+// let myroot = Math.sqrt(9)
+// console.log(myroot)
+
+
+
+// 10. comparison operator related problems! 
+
+// 1. Choose the correct comparison operator to alert true, when x is greater than y. 
+x = 10;
+y = 5;
+
+// if (x > y){
+//     alert("true")
+// }
+
+// 2. Choose the correct conditional (ternary) operator to alert "Too young" if age is less than 18, otherwise alert "Old enough".
+
+
+// let age = 18
+// let myage = age > 18 ? alert("Too young") : alert("Old enough")
